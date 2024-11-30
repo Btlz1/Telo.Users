@@ -1,6 +1,6 @@
-namespace WebApplication1.Exceptions;
+namespace btlz.Exceptions;
 
-public class UserNotFoundException
+public class UserNotFoundException : Exception
 {
-    
+    public UserNotFoundException(int id) : base($"User with id = {id} not found") { }
 }

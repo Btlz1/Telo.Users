@@ -30,3 +30,4 @@ C:\Users\Федор\RiderProjects\WebApplication1\Prod1\obj\Debug\net8.0\refint\
 C:\Users\Федор\RiderProjects\WebApplication1\Prod1\obj\Debug\net8.0\Prod1.pdb
 C:\Users\Федор\RiderProjects\WebApplication1\Prod1\obj\Debug\net8.0\Prod1.genruntimeconfig.cache
 C:\Users\Федор\RiderProjects\WebApplication1\Prod1\obj\Debug\net8.0\ref\Prod1.dll
+C:\Users\Федор\RiderProjects\WebApplication1\Prod1\obj\Debug\net8.0\Prod1.sourcelink.json
